@@ -59,7 +59,7 @@ define(function(require){
                 bottom: 2,
                 left: 2
             },
-            width = 250,
+            width = 150,
             height = 45,
 
             title = 'Tooltip title',
@@ -77,7 +77,7 @@ define(function(require){
             tooltipDivider,
             tooltipBody,
             tooltipTitle,
-            tooltipWidth = 250,
+            tooltipWidth = 150,
             tooltipHeight = 48,
             tooltipBorderRadius = 3,
             ttTextX = 0,
